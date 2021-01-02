@@ -1,0 +1,505 @@
+{
+  "Columns": [
+    {
+      "ColumnName": "Page Name",
+      "DataType": "String",
+      "IS_NULLABLE": "Y"
+    },
+    {
+      "ColumnName": "Page Link",
+      "DataType": "String",
+      "IS_NULLABLE": "Y"
+    },
+    {
+      "ColumnName": "Fan Count",
+      "DataType": "Int",
+      "IS_NULLABLE": "Y"
+    },
+    {
+      "ColumnName": "Checkins",
+      "DataType": "Int",
+      "IS_NULLABLE": "Y"
+    },
+    {
+      "ColumnName": "Start_Date",
+      "DataType": "Date",
+      "IS_NULLABLE": "Y"
+    },
+    {
+      "ColumnName": "Page Name1",
+      "DataType": "String",
+      "IS_NULLABLE": "Y"
+    },
+    {
+      "ColumnName": "Page Link1",
+      "DataType": "String",
+      "IS_NULLABLE": "Y"
+    },
+    {
+      "ColumnName": "Fan Count1",
+      "DataType": "Int",
+      "IS_NULLABLE": "Y"
+    },
+    {
+      "ColumnName": "Checkins1",
+      "DataType": "Int",
+      "IS_NULLABLE": "Y"
+    },
+    {
+      "ColumnName": "Start_Date1",
+      "DataType": "Date",
+      "IS_NULLABLE": "Y"
+    },
+    {
+      "ColumnName": "Page Name2",
+      "DataType": "String",
+      "IS_NULLABLE": "Y"
+    },
+    {
+      "ColumnName": "Page Link2",
+      "DataType": "String",
+      "IS_NULLABLE": "Y"
+    },
+    {
+      "ColumnName": "Fan Count2",
+      "DataType": "Int",
+      "IS_NULLABLE": "Y"
+    },
+    {
+      "ColumnName": "Checkins2",
+      "DataType": "Int",
+      "IS_NULLABLE": "Y"
+    },
+    {
+      "ColumnName": "Start_Date2",
+      "DataType": "Date",
+      "IS_NULLABLE": "Y"
+    },
+    {
+      "ColumnName": "Page Name3",
+      "DataType": "String",
+      "IS_NULLABLE": "Y"
+    },
+    {
+      "ColumnName": "Page Link3",
+      "DataType": "String",
+      "IS_NULLABLE": "Y"
+    },
+    {
+      "ColumnName": "Fan Count3",
+      "DataType": "Int",
+      "IS_NULLABLE": "Y"
+    },
+    {
+      "ColumnName": "Checkins3",
+      "DataType": "Int",
+      "IS_NULLABLE": "Y"
+    },
+    {
+      "ColumnName": "Start_Date3",
+      "DataType": "Date",
+      "IS_NULLABLE": "Y"
+    },
+    {
+      "ColumnName": "Page Name4",
+      "DataType": "String",
+      "IS_NULLABLE": "Y"
+    },
+    {
+      "ColumnName": "Page Link4",
+      "DataType": "String",
+      "IS_NULLABLE": "Y"
+    },
+    {
+      "ColumnName": "Fan Count4",
+      "DataType": "Int",
+      "IS_NULLABLE": "Y"
+    },
+    {
+      "ColumnName": "Checkins4",
+      "DataType": "Int",
+      "IS_NULLABLE": "Y"
+    },
+    {
+      "ColumnName": "Start_Date4",
+      "DataType": "Date",
+      "IS_NULLABLE": "Y"
+    },
+    {
+      "ColumnName": "Page Name5",
+      "DataType": "String",
+      "IS_NULLABLE": "Y"
+    },
+    {
+      "ColumnName": "Page Link5",
+      "DataType": "String",
+      "IS_NULLABLE": "Y"
+    },
+    {
+      "ColumnName": "Fan Count5",
+      "DataType": "Int",
+      "IS_NULLABLE": "Y"
+    },
+    {
+      "ColumnName": "Checkins5",
+      "DataType": "Int",
+      "IS_NULLABLE": "Y"
+    },
+    {
+      "ColumnName": "Start_Date5",
+      "DataType": "Date",
+      "IS_NULLABLE": "Y"
+    },
+    {
+      "ColumnName": "Page Name6",
+      "DataType": "String",
+      "IS_NULLABLE": "Y"
+    },
+    {
+      "ColumnName": "Page Link6",
+      "DataType": "String",
+      "IS_NULLABLE": "Y"
+    },
+    {
+      "ColumnName": "Fan Count6",
+      "DataType": "Int",
+      "IS_NULLABLE": "Y"
+    },
+    {
+      "ColumnName": "Checkins6",
+      "DataType": "Int",
+      "IS_NULLABLE": "Y"
+    },
+    {
+      "ColumnName": "Start_Date6",
+      "DataType": "Date",
+      "IS_NULLABLE": "Y"
+    },
+    {
+      "ColumnName": "Page Name7",
+      "DataType": "String",
+      "IS_NULLABLE": "Y"
+    },
+    {
+      "ColumnName": "Page Link7",
+      "DataType": "String",
+      "IS_NULLABLE": "Y"
+    },
+    {
+      "ColumnName": "Fan Count7",
+      "DataType": "Int",
+      "IS_NULLABLE": "Y"
+    },
+    {
+      "ColumnName": "Checkins7",
+      "DataType": "Int",
+      "IS_NULLABLE": "Y"
+    },
+    {
+      "ColumnName": "Start_Date7",
+      "DataType": "Date",
+      "IS_NULLABLE": "Y"
+    },
+    {
+      "ColumnName": "Page Name8",
+      "DataType": "String",
+      "IS_NULLABLE": "Y"
+    },
+    {
+      "ColumnName": "Page Link8",
+      "DataType": "String",
+      "IS_NULLABLE": "Y"
+    },
+    {
+      "ColumnName": "Fan Count8",
+      "DataType": "Int",
+      "IS_NULLABLE": "Y"
+    },
+    {
+      "ColumnName": "Checkins8",
+      "DataType": "Int",
+      "IS_NULLABLE": "Y"
+    },
+    {
+      "ColumnName": "Start_Date8",
+      "DataType": "Date",
+      "IS_NULLABLE": "Y"
+    },
+    {
+      "ColumnName": "Page Name9",
+      "DataType": "String",
+      "IS_NULLABLE": "Y"
+    },
+    {
+      "ColumnName": "Page Link9",
+      "DataType": "String",
+      "IS_NULLABLE": "Y"
+    },
+    {
+      "ColumnName": "Fan Count9",
+      "DataType": "Int",
+      "IS_NULLABLE": "Y"
+    },
+    {
+      "ColumnName": "Checkins9",
+      "DataType": "Int",
+      "IS_NULLABLE": "Y"
+    },
+    {
+      "ColumnName": "Start_Date9",
+      "DataType": "Date",
+      "IS_NULLABLE": "Y"
+    },
+    {
+      "ColumnName": "Page Name10",
+      "DataType": "String",
+      "IS_NULLABLE": "Y"
+    },
+    {
+      "ColumnName": "Page Link10",
+      "DataType": "String",
+      "IS_NULLABLE": "Y"
+    },
+    {
+      "ColumnName": "Fan Count10",
+      "DataType": "Int",
+      "IS_NULLABLE": "Y"
+    },
+    {
+      "ColumnName": "Checkins10",
+      "DataType": "Int",
+      "IS_NULLABLE": "Y"
+    },
+    {
+      "ColumnName": "Start_Date10",
+      "DataType": "Date",
+      "IS_NULLABLE": "Y"
+    },
+    {
+      "ColumnName": "Page Name11",
+      "DataType": "String",
+      "IS_NULLABLE": "Y"
+    },
+    {
+      "ColumnName": "Page Link11",
+      "DataType": "String",
+      "IS_NULLABLE": "Y"
+    },
+    {
+      "ColumnName": "Fan Count11",
+      "DataType": "Int",
+      "IS_NULLABLE": "Y"
+    },
+    {
+      "ColumnName": "Checkins11",
+      "DataType": "Int",
+      "IS_NULLABLE": "Y"
+    },
+    {
+      "ColumnName": "Start_Date11",
+      "DataType": "Date",
+      "IS_NULLABLE": "Y"
+    },
+    {
+      "ColumnName": "Page Name12",
+      "DataType": "String",
+      "IS_NULLABLE": "Y"
+    },
+    {
+      "ColumnName": "Page Link12",
+      "DataType": "String",
+      "IS_NULLABLE": "Y"
+    },
+    {
+      "ColumnName": "Fan Count12",
+      "DataType": "Int",
+      "IS_NULLABLE": "Y"
+    },
+    {
+      "ColumnName": "Checkins12",
+      "DataType": "Int",
+      "IS_NULLABLE": "Y"
+    },
+    {
+      "ColumnName": "Start_Date12",
+      "DataType": "Date",
+      "IS_NULLABLE": "Y"
+    },
+    {
+      "ColumnName": "Page Name13",
+      "DataType": "String",
+      "IS_NULLABLE": "Y"
+    },
+    {
+      "ColumnName": "Page Link13",
+      "DataType": "String",
+      "IS_NULLABLE": "Y"
+    },
+    {
+      "ColumnName": "Fan Count13",
+      "DataType": "Int",
+      "IS_NULLABLE": "Y"
+    },
+    {
+      "ColumnName": "Checkins13",
+      "DataType": "Int",
+      "IS_NULLABLE": "Y"
+    },
+    {
+      "ColumnName": "Start_Date13",
+      "DataType": "Date",
+      "IS_NULLABLE": "Y"
+    },
+    {
+      "ColumnName": "Page Name14",
+      "DataType": "String",
+      "IS_NULLABLE": "Y"
+    },
+    {
+      "ColumnName": "Page Link14",
+      "DataType": "String",
+      "IS_NULLABLE": "Y"
+    },
+    {
+      "ColumnName": "Fan Count14",
+      "DataType": "Int",
+      "IS_NULLABLE": "Y"
+    },
+    {
+      "ColumnName": "Checkins14",
+      "DataType": "Int",
+      "IS_NULLABLE": "Y"
+    },
+    {
+      "ColumnName": "Start_Date14",
+      "DataType": "Date",
+      "IS_NULLABLE": "Y"
+    },
+    {
+      "ColumnName": "Page Name15",
+      "DataType": "String",
+      "IS_NULLABLE": "Y"
+    },
+    {
+      "ColumnName": "Page Link15",
+      "DataType": "String",
+      "IS_NULLABLE": "Y"
+    },
+    {
+      "ColumnName": "Fan Count15",
+      "DataType": "Int",
+      "IS_NULLABLE": "Y"
+    },
+    {
+      "ColumnName": "Checkins15",
+      "DataType": "Int",
+      "IS_NULLABLE": "Y"
+    },
+    {
+      "ColumnName": "Start_Date15",
+      "DataType": "Date",
+      "IS_NULLABLE": "Y"
+    },
+    {
+      "ColumnName": "Page Name16",
+      "DataType": "String",
+      "IS_NULLABLE": "Y"
+    },
+    {
+      "ColumnName": "Page Link16",
+      "DataType": "String",
+      "IS_NULLABLE": "Y"
+    },
+    {
+      "ColumnName": "Fan Count16",
+      "DataType": "Int",
+      "IS_NULLABLE": "Y"
+    },
+    {
+      "ColumnName": "Checkins16",
+      "DataType": "Int",
+      "IS_NULLABLE": "Y"
+    },
+    {
+      "ColumnName": "Start_Date16",
+      "DataType": "Date",
+      "IS_NULLABLE": "Y"
+    },
+    {
+      "ColumnName": "Page Name17",
+      "DataType": "String",
+      "IS_NULLABLE": "Y"
+    },
+    {
+      "ColumnName": "Page Link17",
+      "DataType": "String",
+      "IS_NULLABLE": "Y"
+    },
+    {
+      "ColumnName": "Fan Count17",
+      "DataType": "Int",
+      "IS_NULLABLE": "Y"
+    },
+    {
+      "ColumnName": "Checkins17",
+      "DataType": "Int",
+      "IS_NULLABLE": "Y"
+    },
+    {
+      "ColumnName": "Start_Date17",
+      "DataType": "Date",
+      "IS_NULLABLE": "Y"
+    },
+    {
+      "ColumnName": "Page Name18",
+      "DataType": "String",
+      "IS_NULLABLE": "Y"
+    },
+    {
+      "ColumnName": "Page Link18",
+      "DataType": "String",
+      "IS_NULLABLE": "Y"
+    },
+    {
+      "ColumnName": "Fan Count18",
+      "DataType": "Int",
+      "IS_NULLABLE": "Y"
+    },
+    {
+      "ColumnName": "Checkins18",
+      "DataType": "Int",
+      "IS_NULLABLE": "Y"
+    },
+    {
+      "ColumnName": "Start_Date18",
+      "DataType": "Date",
+      "IS_NULLABLE": "Y"
+    },
+    {
+      "ColumnName": "Page Name19",
+      "DataType": "String",
+      "IS_NULLABLE": "Y"
+    },
+    {
+      "ColumnName": "Page Link19",
+      "DataType": "String",
+      "IS_NULLABLE": "Y"
+    },
+    {
+      "ColumnName": "Fan Count19",
+      "DataType": "Int",
+      "IS_NULLABLE": "Y"
+    },
+    {
+      "ColumnName": "Checkins19",
+      "DataType": "Int",
+      "IS_NULLABLE": "Y"
+    },
+    {
+      "ColumnName": "Start_Date19",
+      "DataType": "Date",
+      "IS_NULLABLE": "Y"
+    }
+  ]
+
+}
